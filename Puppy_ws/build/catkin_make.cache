@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/lundyphon/Puppy_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lundyphon/Puppy_ws/install -G Unix Makefiles

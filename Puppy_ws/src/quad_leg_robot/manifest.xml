@@ -1,0 +1,13 @@
+<package>
+  <description brief="quad_leg_robot">
+
+     quad_leg_robot
+
+  </description>
+  <author>lundyphon</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/quad_leg_robot</url>
+  <depend package="urdf"/>
+
+</package>
